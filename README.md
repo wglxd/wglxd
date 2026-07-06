@@ -30,8 +30,6 @@ Python · NumPy · Matplotlib · Jupyter · Git · uv
 ## 🔗 Connect With Me
 
 <!-- TODO: fill in the ones you have, delete the rest -->
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-handle)
-- 📊 [Codeforces](https://codeforces.com/profile/your-handle)
-- 📫 [Email](mailto:you@example.com)
+
 
 <!-- Fun fact: this file lives in a repo named exactly "wglxd" — that's what makes it show on my profile. -->
